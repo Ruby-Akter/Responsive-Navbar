@@ -1,0 +1,26 @@
+/*common css start*/
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+a{
+    text-decoration: none;
+
+}
+ul li{
+    list-style-type: none;
+}
+/*common css end*/
+/*nav section css start*/
+#primary-nav{
+    background-color: #02918c;
+}
+#primary-nav #menu ul li a{
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color:#ffffff;
+    padding: 13.5px 24px;
+    display: inline-block;
+}
+/*nav section end*/
